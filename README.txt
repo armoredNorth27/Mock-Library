@@ -66,15 +66,3 @@ How to compile and run the program:
        executable.
 
     5) Run the command ./a1 and the program should now be able to run
-
-Extra information:
-    In this assignment I tried to go for all the bonus marks. 
-    So students, rooms, and reservations should all be stored in
-    increasing order according to their lessThan() function. 
-    
-    I've also attempted all of the bonus functions, so update() 
-    and printReservations() both have an implementation in the
-    library class.
-    
-    Finally, I tried to make sure that I can free all memory that
-    I've allocated during runtime.
