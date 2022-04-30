@@ -1,7 +1,3 @@
-Name: Alexander Nedev
-
-Student Number: 101195595
-
 Contents of zip file:
     README.txt
     Makefile
