@@ -49,20 +49,3 @@ Contents of zip file:
         dates.
     Library.cc
         Implements the functions in Library.h
-
-How to compile and run the program:
-
-    1) Unzip the assignment1.zip folder in whatever
-       directory you like.
-
-    2) Open a terminal of your choice.
-
-    3) Navigate to the assignment1 folder in your terminal(Optionally,
-       you should be able to right click on the assignment1 folder and
-       select "open terminal" if you're marking through the VM)
-
-    4) Run the command "make a1" and wait for it to finish. This
-       compiles all .cc files and links their .o files into 1
-       executable.
-
-    5) Run the command ./a1 and the program should now be able to run
